@@ -3,7 +3,7 @@
 An end-to-end data science and machine learning project that analyses clinical and behavioural patient records to investigate cardiovascular risk factors and predict heart failure risk. Developed as part of the MSc in Advanced Computer Science with Software Engineering at the University of Strathclyde.
 
 ## 📌 Project Overview
-Cardiovascular diseases (CVDs) are the leading cause of mortality globally, accounting for an estimated 19.8 million deaths annually. Early diagnosis is vital for timely medical intervention. This project implements a comprehensive workflow—including data cleaning, exploratory data analysis (EDA), unsupervised clustering, and supervised binary classification—to identify distinct patient risk profiles and predict the presence of heart disease.
+Cardiovascular diseases (CVDs) are the leading cause of mortality globally, accounting for an estimated 19.8 million deaths annually. Early diagnosis is vital for timely medical intervention. This project implements a comprehensive workflow, including data cleaning, exploratory data analysis (EDA), unsupervised clustering, and supervised binary classification to identify distinct patient risk profiles and predict the presence of heart disease.
 
 ## 📊 Dataset Structure
 The project utilizes the **Heart Failure Prediction Dataset** (available on Kaggle), which integrates 5 independent heart datasets (Cleveland, Hungarian, Switzerland, Long Beach VA, and Stalog) across 11 shared features:
